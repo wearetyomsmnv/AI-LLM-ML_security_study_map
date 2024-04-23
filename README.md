@@ -35,4 +35,4 @@ Join the community of professionals and conquer the summits of knowledge with ou
 
 We welcome any suggestions and additions to our map. Together, we can make it even more informative and useful for the entire community of AI security specialists!
 
-😃 With love and hope for a secure AI future, your "AI/LLM/ML Security Map" team.
+😃 With love and hope for a secure AI future.
